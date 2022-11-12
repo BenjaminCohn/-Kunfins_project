@@ -1,0 +1,161 @@
+.boxshadow5 {
+    justify-content: space-around;
+}
+
+header nav h1 {
+    float: none;
+    text-align: center;
+}
+
+header nav ul {
+    float: none;
+}
+
+header nav ul li {
+    float: none;
+}
+
+header nav ul li a  {
+    padding: 10px;
+    text-align: center;
+}
+
+.headerh1 {
+    margin: 5px;
+}
+
+.cle {
+    display: block;
+    opacity: 0.25;
+    filter: invert(1);
+    border-radius: 25px;
+    background-color: white;
+    height: 35px;
+    width: 40px;
+    margin: 10px;
+    box-shadow: -2px -2px 10px black;
+}
+
+.imgCle {
+    height: 35px;
+    width: 40px;
+}
+
+.container {
+    margin: 0;
+}
+
+.sba {
+    height: 35px;
+    width: 40px;
+}
+
+.divAll {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+h1.itemh1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.bio {
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.matos {
+    margin: 5px 0;
+    padding: 5px;
+}
+
+.play {
+    margin: 5px 0;
+    padding: 5px;
+}
+
+.play2 {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.foot {
+    padding: 10px;
+}
+
+.co {
+    margin: 25px;
+}
+
+.insc {
+    margin: 25px;
+}
+
+select {
+    filter: opacity(0.75);
+}
+
+.filter {
+    padding: 0;
+    position: sticky;
+    top: 2px;
+    align-items: end;
+}
+
+#filter {
+    position: absolute;
+    top: 5px;
+}
+
+.new {
+    justify-content: space-around;
+}
+
+.TL {
+    margin: 5px;
+    padding: 5px;
+    width: 170px;
+}
+
+.TL h1 {
+    font-size: 22px;
+}
+
+.TL h2 {
+    font-size: 16px;
+}
+
+.TL li {
+    font-size: 14px;
+}
+
+.TL span {
+    font-size: 12px;
+}
+
+select {
+    height: 35px;
+}
+
+.tl {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
